@@ -1,0 +1,15 @@
+# Dataset (200GB+, never commit this)
+data/celeba/
+
+# Model checkpoints (can be large)
+outputs/checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Virtual environment
+venv/
+env/
